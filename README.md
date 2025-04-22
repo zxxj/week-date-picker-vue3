@@ -1,6 +1,7 @@
-## Week-Date-picker 一个基于Vue3的周历组件
+## Week-Date-picker 一个基于Vue3的周历组件,极简,开箱即用！
 
 ![alt text](/public/x.png)
+
 
 ```js
   // npm / yarn / pnpm => install 
