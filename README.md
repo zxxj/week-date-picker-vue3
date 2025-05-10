@@ -1,4 +1,4 @@
-## Week-Date-picker 一个基于Vue3的周历组件 极简 开箱即用☀️
+## Week-Date-Picker 一个基于Vue3的周历组件
 
 ![alt text](/public/x.png)
 
