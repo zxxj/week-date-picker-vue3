@@ -4,7 +4,7 @@
 
 
 ```js
-  // npm/yarn/pnpm(不建议使用cnpm) 
+  // npm/yarn/pnpm
   pnpm install week-date-picker-vue3
 
   // use
